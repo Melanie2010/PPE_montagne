@@ -1,0 +1,191 @@
+
+html{
+    background-color: #fafafa;
+}
+.première_photo{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: url('../asset/famille-hiver-neige-ambiance-311.jpg') center no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 28.125rem;
+    font-size: 620%;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+    color: grey;
+    text-align: center;
+    font-size: 350%;
+    margin-top: 62.5rem;
+}
+.titre{
+    font-family: 'Open Sans', sans-serif;
+}
+.contenu{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.rectangle_partie_deux{
+    border: solid transparent;
+    width: 75rem;
+    margin: auto;
+    height: 27.5rem;
+    background-color: white
+}
+.text_un{
+    font-family: 'Open Sans', sans-serif;
+    right: 76rem;
+    position: absolute;
+    font-size: 79%;
+}
+.text_deux{
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    right: 56.5rem;
+    font-size: 79%;
+}
+.text_trois{
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    right: 37rem;
+    font-size: 79%;
+
+}
+.text_quatres{
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    right: 24.8rem;
+    font-size: 79%;
+}
+.contenu_un{
+    font-size: 45%;
+    position: absolute;
+}
+.contenu_deux{
+    font-size: 45%;
+    position: absolute;
+    right: 55.2rem;
+}
+.contenu_trois{
+    font-size: 45%;
+    position: absolute;
+    right: 36.9rem;
+}
+.contenu_quatres{
+    font-size: 45%;
+    position: absolute;
+    right: 18.6rem;
+}
+p{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 230%;
+    text-align: center;
+}
+.copyright{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    right: 51.25rem;
+}
+.bas_de_page{
+    background-color: #1f2224;
+    width  : 100%;
+    height : 56.25rem;
+}
+.bas_de_page_un{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    right: 95rem;
+    padding: 0.438rem 0 0 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.bas_de_page_deux{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    right: 62rem;
+    padding: 0.438rem 0 0 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.bas_de_page_trois{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    right: 38rem;
+    padding: 0.438rem 0 0 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.bas_de_page_quatres{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    right: 38rem;
+    padding: 0.438rem 0 0 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.icone_un{
+    color: white;
+    width: 2%;
+    right: 49.375rem;
+    position: absolute;
+}
+.icone_deux{
+    color: white;
+    width: 2%;
+    right: 75rem;
+    position: absolute;
+}
+.icone_trois{
+    color: white;
+    width: 2%;
+    right: 97.813rem;
+    position: absolute;
+}
+.bas_de_page_quatres{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    right: 15rem;
+}
+
+ul {
+    margin-left: 0;
+    padding-left: 50rem;
+    display: inline;
+    padding: 0 0 0 50rem;
+   }
+ul li {
+    margin-left: 0;
+    margin-bottom: 0;
+    padding: 0.125rem 1.563rem 0.313rem;
+    border: 1px solid transparent;
+    list-style: none;
+    display: inline;
+    color: black;
+    font-size: 130%;
+    font-family: 'Open Sans', sans-serif;
+   }
+.menu_un{
+    border: solid transparent;
+}
+.menu_deux{
+
+    border: solid transparent;
+}
+.menu_trois{
+
+    border: solid transparent ;
+}
+.menu_quatres{
+    border: solid transparent;
+}
+.bordure_haut{
+background-color: solid transparent;
+}
